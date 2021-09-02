@@ -24,7 +24,7 @@ from pyrogram.errors import MessageNotModified
 
 CHAT_ID = Config.CHAT_ID
 USERNAME = Config.BOT_USERNAME
-HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Video Player Bot**. \nI Can Stream Videos On Telegram Voice Chat. Made With ❤️ By @AsmSafone 😉!"
+HOME_TEXT = "👋🏻 **Hi [{}](tg://user?id={})**,\n\nI'm **Video Player Bot**. \nI Can Stream Videos On Telegram Voice Chat. Made With ❤️ By @pratheek06 😉!"
 HELP_TEXT = """
 🏷️ --**Setting Up**-- :
 
